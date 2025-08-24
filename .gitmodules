@@ -1,9 +1,9 @@
 [submodule "backend"]
-	path = backend
+	path = development/backend
 	url = https://github.com/ichatops/backend.git
 [submodule "frontend"]
-	path = frontend
+	path = development/frontend
 	url = https://github.com/ichatops/frontend.git
 [submodule "gitops"]
-	path = gitops
+	path = development/gitops
 	url = https://github.com/ichatops/gitops.git
